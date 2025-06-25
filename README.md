@@ -1,1 +1,1 @@
-# ghibli-spworlds-yt
+ghibli-spworlds-yt
